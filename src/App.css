@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+.App {
+  color: aqua;
+  margin-top: 300px;
+  background-color: #282c34;
+  margin-left: 400px;
+  margin-right: 400px;
+}
+.btn {
+  background-color: aqua;
+  border-radius: 100px;
+}
